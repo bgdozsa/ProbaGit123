@@ -11,6 +11,7 @@ namespace ProbaGit
         static void Main(string[] args)
         {
             Console.WriteLine("Helló Gitvilág!");
+            Console.WriteLine("Ez egy új sor.");
 
             Console.ReadKey();
         }
