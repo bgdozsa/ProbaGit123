@@ -12,6 +12,7 @@ namespace ProbaGit
         {
             Console.WriteLine("Helló Gitvilág!");
             Console.WriteLine("Ez egy új sor.");
+            Console.WriteLine("Stage nélkül");
 
             Console.ReadKey();
         }
