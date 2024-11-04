@@ -9,5 +9,6 @@ namespace ProbaGit
     class Class1
     {
         public int i;
+        public int j;
     }
 }
